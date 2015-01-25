@@ -10,7 +10,7 @@ makeCacheMatrix <- function(x) {
       ## 1) a function that can cache an inverse matrix passed to it
       ## 2) a function that can return what's been cached
   
-      ## arguments REQUIRED - either 1) a "normal" matrix 
+      ## arguments REQUIRED "normal" matrix 
       
       m <- NULL
       
